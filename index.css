@@ -14,8 +14,6 @@ body {
   flex-direction: column;
   margin: 0;
   font-family: "Comic Neue", sans-serif;
-  font-weight: 200em;
-
 }
 
 h1 {
@@ -94,7 +92,6 @@ input::placeholder {
 button {
   background: rgba(232, 91, 245, 0.959);
   color: #fff;
-  font-weight: 150em;
   font-size: 1.5rem;
   letter-spacing: 1px;
   width: auto;
